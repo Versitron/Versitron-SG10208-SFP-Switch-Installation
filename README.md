@@ -104,6 +104,5 @@ A **9-port fiber switch** typically includes **8 SFP ports** for optical network
 
 Whether you're deploying a **fiber switch for industrial networks**, setting up secure VLANs, or comparing options like **SFP switch vs Ethernet switch** or **managed vs unmanaged SFP switches**, the **Versitron SG10208** provides the features, flexibility, and fiber-forward architecture your growing network demands.
 
-Check This Also SG10208 SFP Switch Installation ("https://www.versitron.com/collections/fiber-ethernet-unmanaged-switches")
----
+Check This Also SG10208 SFP Switch Installation("https://www.versitron.com/collections/fiber-ethernet-unmanaged-switches")
 
